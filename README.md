@@ -1,11 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a900ed&size=30&left=true&vLeft=true&width=1000&lines=Hi,+My+name+is+Pedro+Elias;I'm+a+back-end+developer+and+gamedev;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+
 ###
 
 <img align="right" height="184" src="https://media.tenor.com/2jUjyEPoShgAAAAM/minecraft-glow-squid.gif"  />
 
 ###
 
+<img src="https://raw.githubusercontent.com/Cocakk/Cocakk/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -46,6 +48,22 @@
 <div align="right">
   <img src="https://profile-counter.glitch.me/Cocakk/count.svg?"  />
 </div>
+
+###
+
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cocakk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31u5tad4dkf3i3gphzlrfmvm34hi">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31u5tad4dkf3i3gphzlrfmvm34hi&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
 
 ###
 
