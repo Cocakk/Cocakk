@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a900ed&size=30&left=true&vLeft=true&width=1000&lines=Hi,+My+name+is+Pedro+Elias;I'm+a+back-end+developer+and+gamedev;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a900ed&size=30&left=true&vLeft=true&width=1000&lines=Hi,+My+name+is+Pedro+Elias;I'm+a+back-end+developer+and+gamedev;Be+Welcome!+:%29 🤘)](https://git.io/typing-svg)
 
 
 ###
