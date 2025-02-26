@@ -7,7 +7,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Cocakk/Cocakk/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
